@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Triad Real Estate Video Blog with Jason Bramblett
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -7,41 +7,41 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Jason Bramblett
   title:
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    Jason Bramblett Real Estate marketing system is on a whole different level than the average agent or brokerage. The average agent needs an entire year to sell 5 homes. Jason’s team averages selling a home every 48 hours! The Marketing system they have reaches thousands of potential buyers each month. What does that mean to you? It means they have thousands of buyers creating demand for your home to get you the most money possible!
+  market: Triad
+  brand: Jason Bramblett and Associates
   brokerage:
-  address:
-  phone:
+  address: 7031 Albert Pick Road Suite 104<br>Greensboro, NC 27409
+  phone: 336-553-0796
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Jason@JasonBramblett.com
+  url: http://www.JasonBramblett.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.jasonbramblett.com/selling/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.greensbororealestatesearch.com/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.jasonbramblett.com/selling/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.greensbororealestatesearch.com/
 
 lender:
   show_section: false
@@ -57,17 +57,17 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/JasonBramblettRealEstate
+  linkedin_url: https://www.linkedin.com/company/1160873?trk=prof-exp-company-name
+  gplus_url: https://plus.google.com/+JasonBramblettRealEstate
+  youtube_url: https://www.youtube.com/channel/UCCrDcr0aFSJVVoOgeBPOC9A/featured
+  twitter_url: https://twitter.com/jasonbramblett
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
+  zillow_url: http://www.zillow.com/profile/Jason-Bramblett/
+  trulia_url: http://www.trulia.com/profile/jason-bramblett-agent-north-carolina-1567329/overview
   yelp_url:
-  podcast_url:
+  podcast_url: https://itunes.apple.com/us/podcast/triad-real-estate-podcast/id1071924592?
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -87,8 +87,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#1d4670'
+  theme_color: '#000'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
