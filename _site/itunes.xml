@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Triad Real Estate Podcast with Jason Bramblett</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Jason Bramblett and Associates - your professional Triad Real Estate Agents.</description>
+    <link>http://jbreblog.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://jbreblog.com"/>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Jason Bramblett Real Estate - your professional Triad Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Jason Bramblett</managingEditor>
-    <lastBuildDate>2018-06-12 15:38:37 -0500</lastBuildDate>
+    <lastBuildDate>2018-06-27 15:59:08 -0500</lastBuildDate>
     <media:copyright>Jason Bramblett</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://jbreblog.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Triad, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,15 +18,15 @@
     </itunes:owner>
     <itunes:author>Jason Bramblett</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://jbreblog.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Triad, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Triad Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Jason Bramblett and Associates - your professional Triad Real Estate Agents.</itunes:summary>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Jason Bramblett Real Estate - your professional Triad Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
         <title>Hire Us for the Best Experience Selling Your Home</title>
-        <link>localhost:4000/hire-us-for-best-experience-selling.html</link>
+        <link>http://jbreblog.com/hire-us-for-best-experience-selling.html</link>
         
           <category>Triad Real Estate</category>
         
@@ -59,7 +59,7 @@ You will see that we will be successful at selling your home. We sell a lot of h
 If you would like to come check us out to see if we would be a good fit for you, call or email me. I look forward to speaking with you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jason+Bramblett/Videos/2018/Hire+Us+To+Get+The+Best+Service+-+Triad+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://jbreblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jason+Bramblett/Videos/2018/Hire+Us+To+Get+The+Best+Service+-+Triad+Real+Estate+Agent.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -78,7 +78,7 @@ A question I get on occasion is, “How do I know I am getting the best person t
       
       <item>
         <title>Whats Behind Declining Home Prices?</title>
-        <link>localhost:4000/whats-behind-declining-home-prices.html</link>
+        <link>http://jbreblog.com/whats-behind-declining-home-prices.html</link>
         
           <category>Market Update</category>
         
@@ -109,7 +109,7 @@ If you need help, I’m here for you. We’ve been doing this a long time, so we
 For any questions or if you need assistance, feel free to reach out to me. I’d be glad to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jason+Bramblett/Videos/2018/Why+Are+Home+Prices+Dropping%253F+-+Triad+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://jbreblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jason+Bramblett/Videos/2018/Why+Are+Home+Prices+Dropping%253F+-+Triad+Real+Estate+Agent.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -128,7 +128,7 @@ Homeowners in the Triad are frustrated. Inventory is low, demand for their homes
       
       <item>
         <title>Your Spring 2018 Market Update</title>
-        <link>localhost:4000/your-spring-2018-market-update.html</link>
+        <link>http://jbreblog.com/your-spring-2018-market-update.html</link>
         
           <category>Triad Real Estate</category>
         
@@ -155,7 +155,7 @@ As buyers reach out to us about certain areas, cities, and neighborhoods, we’l
 If you’d like to upsize or downsize your housing situation or just look at the value of your home in the Triad area, feel free to reach out to us.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jason+Bramblett/Videos/2018/How+Is+The+Spring+Market%253F+-+Triad+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://jbreblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jason+Bramblett/Videos/2018/How+Is+The+Spring+Market%253F+-+Triad+Real+Estate+Agent.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -174,7 +174,7 @@ It’s officially spring, so what can we expect from the spring real estate mark
       
       <item>
         <title>Why Use a Local Lender?</title>
-        <link>localhost:4000/why-use-local-lender.html</link>
+        <link>http://jbreblog.com/why-use-local-lender.html</link>
         
           <category>Triad Real Estate Seller Tips</category>
         
@@ -201,7 +201,7 @@ If moving in on a specific day is important, don’t risk it by saving $4 a mont
 If you have any other questions or need anything else, don’t hesitate to give us a call or send us an email. We look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jason+Bramblett/Videos/2018/Why+You+Should+Use+A+Local+Lender+-+Triad+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://jbreblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jason+Bramblett/Videos/2018/Why+You+Should+Use+A+Local+Lender+-+Triad+Real+Estate+Agent.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -220,7 +220,7 @@ One of the things I get questioned about a lot is mortgage lending. Many people 
       
       <item>
         <title>Why You Should Consider Selling This Winter</title>
-        <link>localhost:4000/why-you-should-consider-selling-this.html</link>
+        <link>http://jbreblog.com/why-you-should-consider-selling-this.html</link>
         
           <category>Triad Real Estate Seller Tips</category>
         
@@ -247,7 +247,7 @@ Buyers are serious right now and are searching with a mission. If you or someone
 In the meantime, we hope you had a great Thanksgiving and have an even better Christmas. Happy holidays!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jason+Bramblett/Videos/2017/Selling+During+The+Holdaiys+-+Triad+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://jbreblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jason+Bramblett/Videos/2017/Selling+During+The+Holdaiys+-+Triad+Real+Estate+Agent.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -266,7 +266,7 @@ Inventory is low and demand is high. It’s the perfect storm for home sellers.
       
       <item>
         <title>Our Home Selling Guarantee</title>
-        <link>localhost:4000/our-home-selling-guarantee.html</link>
+        <link>http://jbreblog.com/our-home-selling-guarantee.html</link>
         
           <category>Triad Real Estate Seller Tips</category>
         
@@ -297,7 +297,7 @@ Don’t believe us? See what Barbara Corcoran has to say in the video above.
 To learn more about our marketing strategy or talk to an agent about selling your home, give us a call. We look forward to working with you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jason+Bramblett/Videos/2017/Our+Home+Selling+Guarantee+-+Jason+Bramblett+Real+Estate.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://jbreblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jason+Bramblett/Videos/2017/Our+Home+Selling+Guarantee+-+Jason+Bramblett+Real+Estate.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -316,7 +316,7 @@ At Jason Bramblett Real Estate, we have only one goal: to get your home sold.
       
       <item>
         <title>How Can You Handle a Multiple-Offer Situation?</title>
-        <link>localhost:4000/how-can-you-handle-multiple-offer.html</link>
+        <link>http://jbreblog.com/how-can-you-handle-multiple-offer.html</link>
         
           <category>Triad Real Estate Seller Tips</category>
         
@@ -349,7 +349,7 @@ If you need some help with multiple-offer situations, both our buyer and our lis
 If you have any other questions about this topic or you’re looking to buy or sell a home, please give me a call. I’d be happy to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jason+Bramblett/Videos/2017/How+Can+You+Handle+a+Multiple-Offer+Situation%253F+-+Triad+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://jbreblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jason+Bramblett/Videos/2017/How+Can+You+Handle+a+Multiple-Offer+Situation%253F+-+Triad+Real+Estate+Agent.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -368,7 +368,7 @@ Today I wanted to take some time to talk to you about how to handle multiple-off
       
       <item>
         <title>Should You Consider Buying an Older Triad Home?</title>
-        <link>localhost:4000/should-you-consider-buying-older-triad.html</link>
+        <link>http://jbreblog.com/should-you-consider-buying-older-triad.html</link>
         
           <category>Triad Real Estate Buyers Tips</category>
         
@@ -401,7 +401,7 @@ If you’re considering an older home, just make sure you’re not only OK with 
 If you have any other questions about buying a home or selling a home here in the Triad, don’t hesitate to give me a call or send me an email soon. I’d be glad to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jason+Bramblett/Videos/2017/Should+You+Consider+Buying+an+Older+Triad+Home%253F+-+Triad+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://jbreblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jason+Bramblett/Videos/2017/Should+You+Consider+Buying+an+Older+Triad+Home%253F+-+Triad+Real+Estate+Agent.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -420,7 +420,7 @@ Thinking of buying an older home? You need to think about whether the charm and 
       
       <item>
         <title>Is It Wise to Buy a Home Near a Large Power Line?</title>
-        <link>localhost:4000/is-it-wise-to-buy-home-near-large-power.html</link>
+        <link>http://jbreblog.com/is-it-wise-to-buy-home-near-large-power.html</link>
         
           <category>Triad Real Estate Buyers Tips</category>
         
@@ -451,7 +451,7 @@ Would I shy away from one of these homes? Not for the right price and the right 
 If you have any questions about this topic or you’re looking to buy or sell a home in our market, don’t hesitate to reach out to me. I look forward to helping you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jason+Bramblett/Videos/2017/Is+It+Wise+to+Buy+a+Home+Near+a+Large+Power+Line%253F+-+Triad+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://jbreblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jason+Bramblett/Videos/2017/Is+It+Wise+to+Buy+a+Home+Near+a+Large+Power+Line%253F+-+Triad+Real+Estate+Agent.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -471,6 +471,6 @@ Homes located near large power lines can present a great opportunity if they hav
     <copyright>Jason Bramblett</copyright>
     <media:credit role="author">Jason Bramblett</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Jason Bramblett and Associates - your professional Triad Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Jason Bramblett Real Estate - your professional Triad Real Estate Agents.</media:description>
   </channel>
 </rss>

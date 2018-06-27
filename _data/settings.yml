@@ -1,10 +1,10 @@
 audit_header: false
 title: Triad Real Estate Video Blog with Jason Bramblett
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Testimonials
+    url: /testimonials/
 
 client:
   name: Jason Bramblett
@@ -13,7 +13,7 @@ client:
   about_markdown: |
     Jason Bramblett Real Estate marketing system is on a whole different level than the average agent or brokerage. The average agent needs an entire year to sell 5 homes. Jason’s team averages selling a home every 48 hours! The Marketing system they have reaches thousands of potential buyers each month. What does that mean to you? It means they have thousands of buyers creating demand for your home to get you the most money possible!
   market: Triad
-  brand: Jason Bramblett and Associates
+  brand: Jason Bramblett Real Estate
   brokerage:
   address: 7031 Albert Pick Road Suite 104<br>Greensboro, NC 27409
   phone: 336-553-0796
@@ -24,7 +24,7 @@ client:
   url: http://www.JasonBramblett.com
 
 CTAs:
-  first_CTA_text: Home Valuation
+  first_CTA_text: Home Analysis Report
   first_CTA_URL: http://www.jasonbramblett.com/selling/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.greensbororealestatesearch.com/
@@ -33,14 +33,14 @@ sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
+    CTA_link_text: "Free Home Analysis Report"
     CTA_url: http://www.jasonbramblett.com/selling/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
+    CTA_text2: "Search all available homes in your -- MARKET -- home."
+    CTA_link_text2: "Search Homes"
     CTA_url2: http://www.greensbororealestatesearch.com/
 
 lender:
