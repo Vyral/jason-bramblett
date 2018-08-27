@@ -30,7 +30,7 @@ Part of the answer is that all HOAs are different. We haven’t heard of many co
 
 Many HOAs have monthly or quarterly meetings that you can ask to step in on, or else call and speak with the president or treasurer to get an idea of the overall temperament of the people within the HOA. **The president, treasurer, and secretary normally are the ones who have the most contact with members** and should have a handle on how many complaints and calls have been received. &nbsp;
 
-Additionally, your real estate agent might have knowledge of the HOA climate. Beyond that, y**ou can simply take a walk through the neighborhood and speak with residents to get an understanding of how strict the HOA will be about various rules.** Remember: Though sometimes they can be over-the-top, homeowners associations are really set up to enhance the overall neighborhood and protect the value of its properties.
+Additionally, your real estate agent might have knowledge of the HOA climate. Beyond that, **y****ou can simply take a walk through the neighborhood and speak with residents to get an understanding of how strict the HOA will be about various rules.** Remember: Though sometimes they can be over-the-top, homeowners associations are really set up to enhance the overall neighborhood and protect the value of its properties.
 
 If you have any other questions, please feel free to reach out to me. I’d love to be your real estate resource.
 
