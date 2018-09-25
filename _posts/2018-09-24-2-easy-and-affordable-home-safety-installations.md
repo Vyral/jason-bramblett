@@ -27,7 +27,7 @@ Having timed lights or motion-activated lights is a good way to deter people fro
 
 {% include pullquote.html %}
 
-When installing these features, you do want to make sure of the quality of the lights you’re putting in. **Cheap lights are, well, cheap, and since they’ll be outside in the elements, you’ll want to get the best brand for your budget.** The commercial lighting industry has excellent products, though they are two- to three-times the price of generic lights. &nbsp;However, since you’re probably only going to be purchasing them once in your lifetime, it may be worth the expense. LED lights come highly recommended for their brightness and lifespan.
+When installing these features, you do want to make sure of the quality of the lights you’re putting in. **Cheap lights are, well, cheap, and since they’ll be outside in the elements, you’ll want to get the best brand for your budget.** The commercial lighting industry has excellent products, though they are two to three times the price of generic lights. &nbsp;However, since you’re probably only going to be purchasing them once in your lifetime, it may be worth the expense. LED lights come highly recommended for their brightness and lifespan.
 
 As far as alarm companies go, there are several out there to choose from. Personally, **I’d recommend CPI—we have a great contact in Randy Hankins, and we can refer you to his quality services.**
 
