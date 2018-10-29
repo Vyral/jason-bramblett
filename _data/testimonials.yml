@@ -22,7 +22,7 @@ testimonial:
 
   - quote: We were just so satisfied. My father had died, and my mom was selling their home. Jason and his team prepared the place, they posted it, they promoted it, and they sold it! Every step along the way, we felt like ours was the only case they had, and that they had a personal interest in my mother and her well-being. It was more than professional, it was professionally personal!
     name: Dave
-    audio: /uploads/audio/dave.mp3
+    # audio: /uploads/audio/dave.mp3
 
   - quote: Jason is positive, upbeat, a go-getter, and he will sell your home. He had professional photographers come out and even offered to have people come stage the home, which I didn’t need but it was nice that he offered. Even when I was unhappy with the pictures because I didn’t think it represented our detached garage well, he sent the photographers out again and had it fixed. I just think the world of him!
     name: Elisabeth
