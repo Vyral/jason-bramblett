@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Truth About Returns on Home Improvement Projects
-date: 2018-11-20 16:55:16
+date: 2018-11-20 16:55:00
 tags:
 excerpt: >-
   Many homeowners have an unrealistic view of the returns they can expect from
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: NDxq7_E8nww
+youtube_code: 5yw0YmwB5Qg
 ---
 
 {% include youtube.html %}
@@ -34,5 +34,3 @@ Usually, homeowners will earn the highest return when they improve upon home fea
 Our team has a list of renovations that will give you the best bang for your buck, and we would be happy to share this resource with you.
 
 If you’d like to see that list, have any other questions, or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
-
-&nbsp;
