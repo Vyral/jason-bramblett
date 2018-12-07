@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are NC Homeowners Required to Disclose?
-date: 2018-12-06 16:55:45
+date: 2018-12-06 16:55:00
 tags:
   - Triad Real Estate
   - Triad Real Estate Seller Tips
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: OR19uyzoDVY
+youtube_code: HgL4QxsCMBg
 ---
 
 {% include youtube.html %}
@@ -34,5 +34,3 @@ Despite disclosure not being required of North Carolina homeowners, we do find t
 In today’s world, the buyer is going to have an inspection, and **most of the undisclosed information would be found out anyway**; it’s just easier to deal with it up front. Our professional advice to you is to disclose all the information about your property that you can. Disclosing can never go wrong. There are situations in which you might not have any knowledge of a particular fact about a home, but where you do have that knowledge, disclose it outright.
 
 If you have any questions about this or other real estate topics, feel free to reach out to us. Don’t forget: **Every Saturday at 9:30 a.m., we have a live real estate radio show on 84.5 FM where you can call in and ask your questions live on the air**. We hope to hear from you soon!
-
-&nbsp;
