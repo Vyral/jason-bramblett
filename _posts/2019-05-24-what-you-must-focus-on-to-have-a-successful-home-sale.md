@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What You Must Focus on the Have a Successful Home Sale
-date: 2019-05-24 18:05:46
+title: What You Must Focus on to Have a Successful Home Sale
+date: 2019-05-24 18:05:00
 tags:
   - Triad Real Estate Seller Tips
 excerpt: >-
