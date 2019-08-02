@@ -23,7 +23,7 @@ youtube_code: VlSyFK7732s
 
 Real estate investing is one of the best ways to build personal wealth, but all too many people believe that the only way to go about it is by becoming a landlord.&nbsp;
 
-In fact, I’m currently airing a series on my radio show on the five ways you can invest in real estate. You can catch that show every Saturday at 9 a.m. on 94.5 FM if you’re interested (or check out the first episode of it right here), but for now, I just wanted to share this quick message with you on the subject:&nbsp;
+In fact, I’m currently airing a series on my radio show on the five ways you can invest in real estate. You can catch that show every Saturday at 9 a.m. on 94.5 FM if you’re interested (or c[heck out the first episode of it right here](https://www.iheart.com/podcast/701-triad-real-estate-w-28418852/episode/jason-bramblett-realty-show-7132019-46970537/){: target="_blank"}), but for now, I just wanted to share this quick message with you on the subject:&nbsp;
 
 {% include pullquote.html %}
 
