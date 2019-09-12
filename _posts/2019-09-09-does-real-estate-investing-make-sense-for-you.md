@@ -19,7 +19,7 @@ youtube_code: Ek8Gu5pwpgk
 
 {% include youtube.html %}
 
-Recently on my radio show, which you can catch every Saturday morning from 9 a.m. to 9:30 a.m. on 94.5 FM, we broke down everything that you need to know to invest in real estate and all of the different options you have.
+Recently on my radio show, which you can catch every Saturday morning from 9 a.m. to 9:30 a.m. on 94.5 FM, we broke down everything that you need to know to invest in real estate and all of the different options you have. You can watch them [here](https://www.jasonbramblett.com/blog/2019/7/ ){: target="_blank"}and [here](https://www.jasonbramblett.com/blog/2019/8/  ){: target="_blank"}.&nbsp;
 
 One of the things we’ve covered is the fact that you can become a real estate investor without becoming a landlord. This will result in you not having to deal with late-night phone calls, screening tenants, or collecting rent.&nbsp;
 
