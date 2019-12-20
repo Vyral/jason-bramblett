@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wishing You the Best This Holiday Season
-date: 2019-12-19 19:37:59
+date: 2019-12-19 19:37:00
 tags:
   - Triad Real Estate
 excerpt: >-
@@ -18,4 +18,4 @@ youtube_code: cDi8ZpBhriM
 
 {% include youtube.html %}
 
-I just wanted to stop by and wish you and your family a very merry Christmas. 2019 has been a phenomenal year for us, and it wouldn’t have been possible without all of your support. Thank you for your business and your trust, and we look forward to speaking with you in the future. We’d love for you to call in to our radio show on 94.5 FM every Saturday at 9 a.m. and keep an eye out for us on TV in 2020.
+I just wanted to stop by and wish you and your family a very merry Christmas. 2019 has been a phenomenal year for us, and it wouldn’t have been possible without all of your support. Thank you for your business and your trust, and we look forward to speaking with you in the future. We’d love for you to call in to our radio show on 94.5 FM every Saturday at 9 a.m. and keep an eye out for us on TV in 2020. If you ever have any questions about real estate, please reach out via phone or email. We would love to help you.
