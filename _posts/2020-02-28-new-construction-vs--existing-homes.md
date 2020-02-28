@@ -18,7 +18,7 @@ youtube_code: ABzB069pYiA
 
 {% include youtube.html %}
 
-<center>Today I&rsquo;m going over the differences between building a new construction home or buying an existing one.</center>
+<center><em>Today I&rsquo;m going over the differences between building a new construction home or buying an existing one.</em></center>
 
 <center>&nbsp;</center>
 
