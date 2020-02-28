@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Construction vs. Existing Homes
-date: 2020-02-28 20:49:30
+date: 2020-02-28 20:49:00
 tags:
 excerpt: >-
   Today I’m going over the differences between building a new construction home
@@ -18,7 +18,9 @@ youtube_code: ABzB069pYiA
 
 {% include youtube.html %}
 
-<center><em>Today I’m going over the differences between building a new construction home or buying an existing one.</em></center>
+<center><em>Today I&rsquo;m going over the differences between building a new construction home or buying an existing one.</em></center>
+
+<center>&nbsp;</center>
 
 We frequently receive questions about whether one should buy an existing home or a new construction house. Which is better? There is no “right” answer to this question. However, **there are pros and cons to consider for both.&nbsp;**
 
