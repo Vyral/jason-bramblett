@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What the Numbers Really Say About Our Market
-date: 2020-03-27 19:34:37
+date: 2020-03-27 19:34:00
 tags:
 excerpt:
 enclosure:
@@ -15,4 +15,4 @@ youtube_code: M52Vov_qIFA
 
 {% include youtube.html %}
 
-Are we heading for another housing market crash, a la 2008? The answer is no, and today I’ll tell you why. First of all, the supply and demand economics are very much in our favor. Also, many of the factors that caused the last housing market crash no longer exist. In fact, it’s actually **a great time to sell**. To find out why, watch this short video.
+Are we heading for another housing market crash, a la 2008? The answer is no, and today I’ll tell you why. First of all, the supply and demand economics are very much in our favor. Also, many of the factors that caused the last housing market crash no longer exist. In fact, it’s actually a great time to sell.&nbsp;
