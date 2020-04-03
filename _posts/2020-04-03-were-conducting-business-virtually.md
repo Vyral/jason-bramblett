@@ -15,6 +15,8 @@ youtube_code: 1d_b9ndmRs0
 
 {% include youtube.html %}
 
-*A lot has changed due to the coronavirus outbreak. However, we’re prepared.&nbsp;*
+<center><em>A lot has changed due to the coronavirus outbreak. However, we’re prepared.</em></center>
+
+.&nbsp;
 
 Of course, the coronavirus has changed many things in our world recently. Fortunately, we help with a colossal amount of relocation in and out of the Triad communities, so we’re prepared to conduct business virtually. We serve 36 towns and cities in our area, so we have a plan for whatever comes up during this time of social distancing. We’re still in business, we’re still buying and selling homes. We have safety plans in place to ensure the health of everyone involved.&nbsp;
