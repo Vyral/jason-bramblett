@@ -26,3 +26,7 @@ Of course, the coronavirus has changed many things in our world recently. Fortun
 &nbsp;
 
 &nbsp;
+
+<iframe width="420" height="315"
+src="https://youtu.be/6BWeMK6wGmc">
+</iframe>
