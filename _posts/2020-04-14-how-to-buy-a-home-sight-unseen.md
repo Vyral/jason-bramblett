@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Buy a Home Sight Unseen
-date: 2020-04-15 09:00:00
+date: 2020-04-14 09:00:00
 tags:
 excerpt: >-
   Many would never consider buying a home sight unseen. Today I’m discussing why
