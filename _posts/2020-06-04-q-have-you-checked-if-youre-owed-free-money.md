@@ -16,7 +16,8 @@ youtube_code: rN76uZZsvhw
 
 {% include youtube.html %}
 
-*You might have money out there waiting for you on this website.*
+<center><em>You might have money out there waiting for you on this website.</em></center>
+&nbsp;
 
 While doing some title work recently for a client, I came across the fact that they were owed some money that was sitting in the unclaimed property website. **There is quite an extensive list of people who are owed money, and you might be one of them.** How does free money sound?
 
