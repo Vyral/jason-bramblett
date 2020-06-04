@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Have You Checked If You’re Owed Free Money?'
-date: 2020-06-04 17:28:35
+date: 2020-06-04 17:28:00
 tags:
 excerpt: You might have money out there waiting for you on this website.
 enclosure: >-
@@ -20,7 +20,7 @@ youtube_code: rN76uZZsvhw
 
 While doing some title work recently for a client, I came across the fact that they were owed some money that was sitting in the unclaimed property website. **There is quite an extensive list of people who are owed money, and you might be one of them.** How does free money sound?
 
-Here’s a link to the North Carolina unclaimed property resource. Just click on your county and look for your name. **If it’s there, you may be getting some money back.**
+[Here’s a link](https://www.nccash.com/claiming-your-unclaimed-property) to the North Carolina unclaimed property resource. Just click on your county and look for your name. **If it’s there, you may be getting some money back.**
 
 {% include pullquote.html %}
 
