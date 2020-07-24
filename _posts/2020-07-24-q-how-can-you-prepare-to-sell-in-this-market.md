@@ -16,7 +16,8 @@ youtube_code: 7lZ0fBRcenk
 
 {% include youtube.html %}
 
-*Here’s what sellers should be prepared for in today’s market.*
+<center><em>Here’s what sellers should be prepared for in today’s market.</em></center>
+&nbsp;
 
 We’re almost to the end of July and what a week it has been down here in North Carolina. The heat and humidity have been rough, but fall will be here before you know it.
 
