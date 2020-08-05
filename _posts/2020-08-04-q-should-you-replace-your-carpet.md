@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Should You Replace Your Carpet?'
-date: 2020-08-05 10:00:00
+date: 2020-08-04 10:00:00
 tags:
 excerpt: I’m back today to answer a common client question about carpet.
 enclosure:
