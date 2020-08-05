@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Should You Replace Your Carpet?'
-date: 2020-08-05 18:02:55
+date: 2020-08-05 10:00:00
 tags:
 excerpt: I’m back today to answer a common client question about carpet.
 enclosure:
@@ -15,7 +15,8 @@ youtube_code: RD9E6mxP93I
 
 {% include youtube.html %}
 
-<center><em>I’m back today to answer a common client question about carpet.</em></center>
+<center><em>I&rsquo;m back today to answer a common client question about carpet.</em></center>
+
 &nbsp;
 
 I recently answered a common (and important) question I often hear from homebuyers on my radio show recently. Rodney said, “Jason, I plan on selling my home next year. I was wondering if I should replace the carpet or give an allowance? Which is the better option?”
