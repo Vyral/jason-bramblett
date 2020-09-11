@@ -16,7 +16,7 @@ youtube_code: hedQCZjkPZ4
 
 {% include youtube.html %}
 
-*Today I’m answering a question about the merits of a fenced-in yard.*
+<center><em>Today I’m answering a question about the merits of a fenced-in yard.</em></center>
 
 &nbsp;
 
