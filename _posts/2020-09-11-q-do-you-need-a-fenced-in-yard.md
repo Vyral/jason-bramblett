@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Do You Need a Fenced-In Yard?'
-date: 2020-09-11 17:02:52
+date: 2020-09-11 17:02:00
 tags:
 excerpt: Today I’m answering a question about the merits of a fenced-in yard.
 enclosure: >-
@@ -16,7 +16,7 @@ youtube_code: hedQCZjkPZ4
 
 {% include youtube.html %}
 
-<center><em>Today I’m answering a question about the merits of a fenced-in yard.</em></center>
+<center><em>Today I&rsquo;m answering a question about the merits of a fenced-in yard.</em></center>
 
 &nbsp;
 
@@ -26,10 +26,10 @@ This week’s question comes from Susan and Bill. Here’s what they had to say:
 
 **My simple answer is yes.** A fenced yard is actually one of the top five things buyers are looking for in a home today. It’s near the top of the list for most of them. Given the price you’re being quoted, I believe it would add a ton of value to the home. You might not see a 100% return on your investment, but you will get a large portion of your money back.
 
-**One additional factor that could play into your decision is the road traffic near the home.** If you’re on a busier street or road, the more desirable that fence will become to buyers.&nbsp;
+**One additional factor that could play into your decision is the road traffic near the home.**&nbsp;The busier the street, the more desirable that fence becomes to buyers.&nbsp;
 
 I’ve found that in a lot of family-friendly neighborhoods, you do see more fences. **If you don’t have one and your competition does, that puts you at an automatic disadvantage.** However, no fence is better than a fence that’s falling down or falling apart.
 
-It’s an ongoing benefit to your home for having it fenced in. If you spend $8,000 in a new fence, you should see at least half of that come back into your pocket if not more. If it’s nicer than your neighbors’ fences, you may even see a greater return.
+Having a fenced-in yard is an ongoing benefit for your home. If you spend $8,000 in a new fence, you should see at least half of that come back into your pocket, if not more. If it’s nicer than your neighbors’ fences, you may even see a greater return.
 
 If you have any other real estate-related questions from me, don’t hesitate to reach out via phone or email today. I look forward to hearing from you soon.
