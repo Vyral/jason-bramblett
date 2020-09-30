@@ -18,7 +18,8 @@ youtube_code: o_zf3ykE7GA
 
 {% include youtube.html %}
 
-*Here’s why solar panels won’t add resale value to your home. *
+<center><em>Here’s why solar panels won’t add resale value to your home.</em></center>
+&nbsp;
 
 Today I’m answering a question that was recently sent to me by homeowners James and Linda. They’re considering adding solar panels to their home, and the representative they spoke to said it would boost their home’s value by $30,000. Is that true, though? What’s the real deal with solar panels?
 
