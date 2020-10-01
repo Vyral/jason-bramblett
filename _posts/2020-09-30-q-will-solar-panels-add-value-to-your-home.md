@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Will Solar Panels Add Value to Your Home?'
-date: 2020-09-30 16:59:39
+date: 2020-09-30 16:59:00
 tags:
 excerpt: Here’s why solar panels won’t add resale value to your home.
 enclosure: >-
@@ -18,14 +18,15 @@ youtube_code: o_zf3ykE7GA
 
 {% include youtube.html %}
 
-<center><em>Here’s why solar panels won’t add resale value to your home.</em></center>
+<center><em>Here&rsquo;s why solar panels won&rsquo;t add resale value to your home.</em></center>
+
 &nbsp;
 
 Today I’m answering a question that was recently sent to me by homeowners James and Linda. They’re considering adding solar panels to their home, and the representative they spoke to said it would boost their home’s value by $30,000. Is that true, though? What’s the real deal with solar panels?
 
 {% include pullquote.html %}
 
-Obviously we all want to be energy-conscious and reduce pollution, and the main sales pitch you’ll hear from solar panel salespeople is the energy savings they provide. In my 23 years of selling homes, though, **I’ve*****never*** **seen a property’s value increase due to solar panels,** and I’ve sold a lot of homes with solar panels.&nbsp;
+Obviously we all want to be energy-conscious and reduce pollution, and the main sales pitch you’ll hear from solar panel salespeople is the energy savings that panels provide. In my 23 years of selling homes, though, **I’ve&nbsp;*****never*** **seen a property’s value increase due to solar panels,** and I’ve sold a lot of homes with solar panels.&nbsp;
 
 People buy solar panels ostensibly to save money, but it’s important to consider the payback period of this investment. Let’s say it costs you $15,000 to add solar panels to your home. Energy bills in the Triad area average about $280 per month, so let’s assume your solar panels cut this monthly bill in half to $140. **At a savings of $140 per month, it would take you about eight years to recoup your purchase.** You wouldn’t see any real return until year nine.
 
