@@ -18,7 +18,9 @@ youtube_code: z78DrDcUzVc
 
 {% include youtube.html %}
 
-*If you’re selling soon, making a home addition probably won’t give you a full return on investment. *
+<center><em>If you’re selling soon, making a home addition probably won’t give you a full return on investment.</em></center>
+&nbsp;
+
 
 If you make additions to your home, will you get your full return on investment when you sell? This question was recently asked of me by homeowners Keith and Julie, who are considering adding a master bedroom and bathroom to their home before listing.&nbsp;
 
