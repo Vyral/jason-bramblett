@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Should You Make Additions to Your Home Before Selling?'
-date: 2020-10-07 19:35:13
+date: 2020-10-07 19:35:00
 tags:
 excerpt: >-
   If you’re selling soon, making a home addition probably won’t give you a full
@@ -18,11 +18,11 @@ youtube_code: z78DrDcUzVc
 
 {% include youtube.html %}
 
-<center><em>If you’re selling soon, making a home addition probably won’t give you a full return on investment.</em></center>
+<center><em>If you&rsquo;re selling soon, making a home addition probably won&rsquo;t give you a full return on investment.</em></center>
+
 &nbsp;
 
-
-If you make additions to your home, will you get your full return on investment when you sell? This question was recently asked of me by homeowners Keith and Julie, who are considering adding a master bedroom and bathroom to their home before listing.&nbsp;
+If you make additions to your home, will you get your full return on investment when you sell? I was recently asked this question by homeowners Keith and Julie, who are considering adding a master bedroom and bathroom to their home before listing.&nbsp;
 
 {% include pullquote.html %}
 
