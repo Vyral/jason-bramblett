@@ -9,14 +9,15 @@ enclosure: >-
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/10-14-20yt-4.jpg
 youtube_code: 4d8R8MVsBvE
 ---
 
 {% include youtube.html %}
 
-<center><em>You’d be hard-pressed to find a better time to buy or sell a home.</em></center>
+<center><em>You&rsquo;d be hard-pressed to find a better time to buy or sell a home.</em></center>
+
 &nbsp;
 
 Real estate is still moving very, very well, so if you’re thinking about selling your home, know that we have buyers ready in almost every single market here in the Triad. We currently have about 1,9000 buyers actively looking for homes on our website. However, many of them aren’t finding what they’re looking for—yours could be the home they need. This is a great time to sell your home, and given how low interest rates are, it’s also a great time to buy a home. Even though prices are up, it’s important to remember that the most expensive part of buying a home isn’t the home’s price, it’s the mortgage. Compared to just 36 months ago, mortgages are basically half-price\!
