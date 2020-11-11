@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Should I Spend Money Upgrading My Bathroom or My Windows?'
-date: 2020-11-11 16:34:19
+date: 2020-11-11 16:34:00
 tags:
 excerpt: Are new windows or a new bathroom more valuable in your home?
 enclosure:
