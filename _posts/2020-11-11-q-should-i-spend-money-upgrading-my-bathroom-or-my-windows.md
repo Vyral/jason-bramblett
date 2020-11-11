@@ -15,7 +15,8 @@ youtube_code: UivlZn0wGsM
 
 {% include youtube.html %}
 
-*Are new windows or a new bathroom more valuable in your home?*
+<center><em>Are new windows or a new bathroom more valuable in your home?</em></center>
+&nbsp;
 
 This week’s question is another great one: Jennifer wants to know, “Is remodeling the bathroom a better investment than replacing the windows in my house?”
 
