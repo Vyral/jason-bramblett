@@ -8,7 +8,7 @@ enclosure:
 pullquote: New windows add value in more than one way.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/10-21-20yt-6.jpg
 youtube_code: UivlZn0wGsM
 ---
