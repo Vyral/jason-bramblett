@@ -19,7 +19,6 @@ youtube_code: vPc1Fa7ZVVw
 &nbsp;
 
 This week’s question is another great one: Jennifer wants to know, “Is remodeling the bathroom a better investment than replacing the windows in my house?”
-
 My advice is based on my decades of experience in this business: Windows are usually the better investment.&nbsp;
 
 {% include pullquote.html %}
