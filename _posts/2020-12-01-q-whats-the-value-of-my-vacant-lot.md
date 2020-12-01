@@ -16,7 +16,8 @@ youtube_code: 5WUWHR8T2rg
 
 {% include youtube.html %}
 
-*Here’s how vacant lot owners can avoid undervaluing/overbuilding. *
+<center><em>Here’s how vacant lot owners can avoid undervaluing/overbuilding.</em></center>
+&nbsp;
 
 Today’s real estate question comes from a listener named Bob: *“I have a vacant lot that I own outright. I have a quote to build a home on it for $350,000. The lot itself is $50,000. If I sold the house, would the full price be $400,000? I don’t want to overbuild or undervalue the property.”&nbsp;*
 
