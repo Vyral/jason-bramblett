@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What’s the Value of My Vacant Lot?'
-date: 2020-12-01 21:14:31
+date: 2020-12-01 21:14:00
 tags:
 excerpt: Here’s how vacant lot owners can avoid undervaluing/overbuilding.
 enclosure: >-
@@ -16,20 +16,19 @@ youtube_code: 5WUWHR8T2rg
 
 {% include youtube.html %}
 
-<center><em>Here’s how vacant lot owners can avoid undervaluing/overbuilding.</em></center>
+<center><em>Here&rsquo;s how vacant lot owners can avoid undervaluing/overbuilding.</em></center>
+
 &nbsp;
 
 Today’s real estate question comes from a listener named Bob: *“I have a vacant lot that I own outright. I have a quote to build a home on it for $350,000. The lot itself is $50,000. If I sold the house, would the full price be $400,000? I don’t want to overbuild or undervalue the property.”&nbsp;*
 
-There are two ways to approach this situation. First, you could get an appraisal from the blueprints; most banks will require that, especially if you’re needing a loan, **they’ll factor the land value into the total appraised value.&nbsp;**
-
-Alternatively, you could simply take a look at some of the homes that have sold in and around that particular subdivision to see what owners were able to fetch, and then factor the land value into that as well.&nbsp;
+There are two ways to approach this situation. First, you could get an appraisal from the blueprints; most banks will require that, especially if you’re needing a loan, **they’ll factor the land value into the total appraised value.&nbsp;**Alternatively, you could simply take a look at some of the homes that have sold in and around that particular subdivision to see what owners were able to fetch, and then factor the land value into that as well.&nbsp;
 
 {% include pullquote.html %}
 
 Typically, though, determining an overall value won’t be as easy as adding what you paid for the entire lot onto the value of the property. The reason for this is that everything depends on when you bought the land; you could have gotten a really solid deal on it at the time, and it may be worth significantly more now. The bank will take this into account when doing their appraisal, as per their standard operating procedures.&nbsp;
 
-On the other hand, **a lot purchased 10 or so years ago could have seen significant fluctuations in value;** perhaps today it isn’t even worth what you paid for it back then. Prior to the 2008 housing crash, we watched lot values in the Triad go through the roof, especially in Oak Ridge, Summerfield, and areas throughout Guilford County. After the crash, we saw those same lot values decrease by almost 50%. In that scenario, it’s clear why the previous sale price of the lot wouldn’t just be added onto the total value of the property.&nbsp;
+On the other hand, **a lot purchased 10 or so years ago could have seen significant fluctuations in value;** perhaps today it isn’t even worth what you paid for it back then. Prior to the 2008 housing crash, we watched lot values in the Triad go through the roof, especially in Oak Ridge, Summerfield, and areas throughout Guilford County. After the crash, we saw those same lot values decrease by almost 50%. In that scenario, it’s clear why the previous sale price of the lot wouldn’t just be added to the total value of the property.&nbsp;
 
 Again, that’s why my best advice is to work with your bank to take a closer look at things. If you paid cash for the lot, the good news is that banks will take that value into consideration as part of your down payment. So, if you had to put 20% down to finance the property and you already own the lot free and clear, then that factors into the overall value as well.&nbsp;
 
