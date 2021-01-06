@@ -18,7 +18,8 @@ youtube_code: 6E6BDgHvTGE
 
 {% include youtube.html %}
 
-*Is water leaking into your crawl space? Here’s what you can do. *
+<center><em>Is water leaking into your crawl space? Here’s what you can do.</em></center>
+&nbsp;
 
 Recently, a listener by the name of Mark realized that water had been leaking into his home’s crawl space after finding his insulation tethered and falling; he doesn’t know much about how to deal with this kind of issue and wanted to see if I could offer any suggestions.&nbsp;
 
