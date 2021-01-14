@@ -18,7 +18,7 @@ youtube_code: hSAlDArs-sY
 
 {% include youtube.html %}
 
-*Here’s the right way to get started buying a home in today’s market.*
+<center><em>Here’s the right way to get started buying a home in today’s market.</em></center>
 
 &nbsp;
 
