@@ -18,7 +18,7 @@ youtube_code: ltrpvrau5LM
 
 {% include youtube.html %}
 
-*Here are a few additional home-buying costs buyers should be aware of. *
+<center><em>Here are a few additional home-buying costs buyers should be aware of. </em></center>
 
 &nbsp;
 
