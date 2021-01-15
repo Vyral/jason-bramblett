@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The First Steps to Becoming a Homebuyer
-date: 2021-01-14 20:12:47
+date: 2021-01-14 20:12:00
 tags:
   - Triad Real Estate Buyer Tips
   - Triad Real Estate
@@ -18,17 +18,17 @@ youtube_code: hSAlDArs-sY
 
 {% include youtube.html %}
 
-<center><em>Here’s the right way to get started buying a home in today’s market.</em></center>
+<center><em>Here&rsquo;s the right way to get started buying a home in today&rsquo;s market.</em></center>
 
 &nbsp;
 
-Today I’m talking to all the future homebuyers out there. It can be a barrel of fish hooks out there when buying a home, and many mistakes can be made. We want to ensure you have minimal mistakes by providing you with our detailed home-buying plan.
+Today I’m talking to all the future homebuyers out there. It can be a barrel of fish hooks out there when it comes to buying a home, and many mistakes can be made. We want to ensure you have minimal mistakes by providing you with our detailed home-buying plan.
 
 **The first thing our plan does is ensures that you won’t have to fly by the seat of your pants.** If you haven’t sold a home in 10 years or more, processes have changed, but we can help guide you through all of those changes. Having a plan helps remove a lot of that stress.
 
 {% include pullquote.html %}
 
-**The most expensive part of the home-buying process is the mortgage.** Most people don’t factor that in and only look at the home’s price, but the cost of a mortgage is a necessary part of the equation for 90% of homebuyers. We educate our buyers about this step and make sure they know exactly what they’re getting into. Although the money seems free, it’s not. The interest rate and the fees all go into a loan's cost.&nbsp;
+**The most expensive part of the home-buying process is the mortgage.** Most people don’t factor that in and only look at the home’s price, but the cost of a mortgage is a necessary part of the equation for 90% of homebuyers. We educate our buyers about this step and make sure they know exactly what they’re getting into. Although the money seems free, it’s not. The interest rate and fees all go into a loan's cost.&nbsp;
 
 The best way to put yourself in a position to win is to work with an agent who has good relationships with local lenders. There is a lot to figure out here. When you have all the information, you can have the confidence to make a good decision. If you don’t have all the information, you’re setting yourself up for failure.&nbsp;
 
