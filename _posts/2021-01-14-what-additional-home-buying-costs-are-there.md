@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Additional Home-Buying Costs Are There?
-date: 2021-01-14 19:23:38
+date: 2021-01-14 19:23:00
 tags:
 excerpt: Here are a few additional home-buying costs buyers should be aware of.
 enclosure: >-
@@ -12,7 +12,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/1-13-21yt.jpg
+youtube_alternate_image: /uploads/1-15-21yt.jpg
 youtube_code: ltrpvrau5LM
 ---
 
