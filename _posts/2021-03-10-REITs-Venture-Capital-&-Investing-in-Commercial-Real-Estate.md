@@ -25,14 +25,14 @@ Today’s question is “How do I get started investing in commercial real estat
 
 It’s amazing how much new construction is out there, both residential and commercial. **You might not know it, but the ability to invest in commercial real estate has been around for years.** If you have ever heard of a REIT, it’s short for real estate investment trust, and it allows you to invest in commercial property as a fragmental owner.
 
-The downside with REITs is that the minimum amount to get in can be extremely high and it’s obviously not a strategy for everybody. If you take a look at an area like Air Park East, you’re talking about a billion dollars to build something along those lines today. You don’t want 400,000 people in on a commercial investment because then it becomes a logistical nightmare.
+The downside with REITs is that the minimum amount you need to invest can be extremely high and it’s obviously not a strategy for everybody. If you take a look at an area like Air Park East, you’re talking about a billion dollars to build something along those lines today. You don’t want 400,000 people in on a commercial investment because then it becomes a logistical nightmare.
 
-**There are some other ways to invest that don’t require a minimum investment.** Venture capital is an option, but it’s also more risky. It doesn’t give you as much diversification as an IRA, for example.
+**There are some other ways to invest that don’t require a minimum investment.** Venture capital is an option, but it’s also riskier. It doesn’t give you as much diversification as an IRA, for example.
 &nbsp;
 
 {% include pullquote.html %}
 
-Private equity has also entered into the real estate world. Companies like Opendoor and Offerpad are stepping into the real estate world and buying up both residential and commercial properties.
+Private equity has also entered the real estate world. Companies like Opendoor and Offerpad are stepping into the real estate world and buying up both residential and commercial properties.
 
 **Make sure you talk to a financial advisor because there can be certain tax implications with investing in these types of funds.** A lot of it has to do with your age, but each situation is different.
 
