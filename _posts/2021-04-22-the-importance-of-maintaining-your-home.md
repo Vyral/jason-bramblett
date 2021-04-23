@@ -27,9 +27,7 @@ The biggest challenge my team and I typically deal with when selling a home is a
 
 This is why **I advise every homeowner to set aside certain funds each month for home upkeep and repairs.** These can be things you add to your family budget. For your heating and cooling systems, you can sign a maintenance contract with a local heating and cooling company that’ll take care of them for just a couple hundred dollars a year. Keeping these units maintained will also help with your utility costs because they’re running the way they should run. Think of it like this: If you don’t maintain your car, it stops running, right? Then you’ll either have to fix it, buy a new one, or start walking everywhere. You don’t need the state to mandate a yearly home inspection like they do with registered vehicles—you can just do it on your own.&nbsp;
 
-> <center><strong><em>"Catch things before they become &lsquo;events.&rsquo;"</em></strong></center>
-
-&nbsp;
+{% include pullquote.html %}
 
 HVAC units, water heaters, roofs, sinks, faucets, gutters, crawl spaces, downspouts, and improper landscaping are the culprits that cause the most issues among home sellers. To prevent these issues, **I suggest hiring an inspection company to give your home a maintenance check every three to five years.** Most homeowners only do this once—when they're purchasing the home.&nbsp;
 
@@ -39,4 +37,4 @@ Usually, the issues they inevitably have to deal with when they sell have been o
 
 If you’d like to know more about keeping your home well-maintained or would like the name of a great local home inspection company, don’t hesitate to reach out to me. I’d love to help you.&nbsp;
 
-{% include pullquote.html %}
+&nbsp;
