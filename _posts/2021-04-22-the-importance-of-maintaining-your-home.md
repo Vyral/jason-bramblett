@@ -12,8 +12,8 @@ pullquote: Catch things before they become ‘events.’
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/4-22-21yt.jpg
-youtube_code: wtmKn0VMnm4
+youtube_alternate_image: /uploads/4-26-21yt-3.jpg
+youtube_code: sK31bCh2jsg
 ---
 {% include youtube.html %}
 
