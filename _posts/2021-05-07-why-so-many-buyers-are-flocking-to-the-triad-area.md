@@ -19,7 +19,9 @@ youtube_code: e516lLXOrWA
 ---
 {% include youtube.html %}
 
-Out-of-state buyers are pouring into our market, and here’s why.
+<center><em>Out-of-state buyers are pouring into our market, and here’s why.</em></center>
+&nbsp;
+
 
 In a recent interview, I was asked about where people are moving to in the United States, where they’re coming from, and why.
 
