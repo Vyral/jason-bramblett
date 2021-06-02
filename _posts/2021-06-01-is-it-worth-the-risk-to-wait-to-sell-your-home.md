@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is It Worth the Risk to Wait to Sell Your Home?
-date: 2021-06-02 00:00:00
+date: 2021-06-01 00:00:00
 tags:
   - Triad Real Estate Seller Tips
   - Triad Real Estate
