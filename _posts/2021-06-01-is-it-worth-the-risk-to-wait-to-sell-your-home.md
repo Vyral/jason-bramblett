@@ -16,7 +16,7 @@ youtube_code: 7dSuH3XwQCk
 ---
 {% include youtube.html %}
 
-If you’re wondering when to list your home, today’s video is for you.
+<center><em>If you’re wondering when to list your home, today’s video is for you.</em></center>
 
 Today I’m addressing an email I recently got from a potential home seller named Jim in Summerfield, North Carolina. He’s noticed several of his neighbors listing their homes, but he’s concerned that a flooding of the market might drive prices down. Right now prices are incredible, but he’s wondering whether he should sell now or risk waiting. If you’re asking yourself the same thing, I’ll offer my thoughts on the current market and give my advice.&nbsp;&nbsp;
 
