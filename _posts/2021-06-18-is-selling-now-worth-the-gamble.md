@@ -4,9 +4,11 @@ title: Is Selling Now Worth the Gamble?
 date: 2021-06-18 15:18:52
 tags:
   - Triad Real Estate Seller Tips
-  - Triad Real Estate Buyer Tips
+  - Triad Real Estate
 excerpt: Here’s how to decide whether selling now is worth the gamble for you.
-enclosure:
+enclosure: >-
+  s3://vyralmarketing/Jason Bramblett/Videos/2021/JB Is Selling Now Worth the
+  Gamble_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
