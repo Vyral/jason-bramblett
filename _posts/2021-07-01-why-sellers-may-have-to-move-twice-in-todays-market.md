@@ -22,13 +22,13 @@ youtube_code: dZJAioCeaDA
 
 Since we’re in such a hot seller’s market, many people have decided to list their homes and make a quick, easy profit. This creates a problem, though: Where do these people go after they sell their homes? Competition is fierce among buyers, so securing a new property to purchase is anything but easy.
 
-Inventory is low everywhere, and most people are having a hard time finding a new place to live. And unfortunately, there’s not really an easy way to get around this situation. If you sell in this market, you’ll likely have to end up moving twice — first to a temporary location, such as an apartment or a friend’s home, and then to your new home whenever you find one to buy. **This middle step is simply unavoidable for many people in today’s market.**
+Inventory is low everywhere, and most people are having a hard time finding a new place to live. And unfortunately, there’s no easy way to get around this situation. If you sell in this market, you’ll likely have to end up moving twice — first to a temporary location, such as an apartment or a friend’s home, and then to your new home whenever you find one to buy. **This middle step is simply unavoidable for many people in today’s market.**
 
-Some people are able to buy a new home without selling their current one first; if you have the ability to go down this route, I suggest doing so. You likely won’t be stuck paying two mortgages for long, as you’ll have no problem finding a buyer.
+Some people can buy a new home without selling their current one first; if you have the ability to go down this route, I suggest doing so. You likely won’t be stuck paying two mortgages for long, as you’ll have no problem finding a buyer.
 
 {% include pullquote.html %}
 
-It’s best to think of rental costs as part of the home buying transaction. If you think about all the taxes and fees you’d be paying on a mortgage anyway, you’ll realize you aren’t throwing away much money on rent. Renting also provides you the flexibility to test out new areas — you may realize you dislike a location and decide to move to another one. It’s much easier to end a lease than to sell a home.
+It’s best to think of rental costs as part of the home-buying transaction. If you think about all the taxes and fees you’d be paying on a mortgage anyway, you’ll realize you aren’t throwing away much money on rent. Renting also provides you the flexibility to test out new areas — you may realize you dislike a location and decide to move to another one. It’s much easier to end a lease than to sell a home.
 
 Sometimes, you also need to think about whether you’ll see any true benefit from owning a home. If you’re older, buying a new home has fewer benefits because you likely already have a paid-off home, meaning you won’t see any tax benefits. At this point, you’re just signing yourself up for more expenses.
 
