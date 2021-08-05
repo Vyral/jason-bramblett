@@ -22,9 +22,9 @@ No matter their experience level, every single real estate agent is able to pick
 
 In my opinion, **the less we reach out to communicate with people, the more we’re screaming to places like Wall Street that we’re not needed and can be replaced by apps.** Real estate is very much a necessary field, even today. Having a third-party negotiator is huge, and we can help you with all the individual steps of the buying and selling process.
 
-One family who hired us had been working with another company for six months. They made lots of offers but to no avail. After they switched to us, we were able to find the buyer the exact home they were looking for in terms of location, size, price, and so on. We only changed a couple of simple things about how their offer was presented, and in the first weekend, they went under contract with the first house.
-
 {% include pullquote.html %}
+
+One family who hired us had been working with another company for six months. They made lots of offers but to no avail. After they switched to us, we were able to find the buyer the exact home they were looking for in terms of location, size, price, and so on. We only changed a couple of simple things about how their offer was presented, and in the first weekend, they went under contract with the first house.
 
 Sometimes, simple things are overlooked the most. When there are 20 offers to look at that are all roughly the same, **small differences can be the key to sticking out in the seller’s eye.**
 
