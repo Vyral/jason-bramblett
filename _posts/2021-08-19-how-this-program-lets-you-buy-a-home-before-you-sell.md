@@ -4,6 +4,7 @@ title: How This Program Lets You Buy a Home Before You Sell
 date: 2021-08-19 00:00:00
 tags:
   - Triad Real Estate Buyer Tips
+  - Triad Real Estate Seller Tips
 excerpt: Here’s how you can buy a new home without selling your current one first.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Jason+Bramblett/Videos/2021/How+This+Program+Lets+You+Buy+a+Home+Before+You+Sell+-+Jason+Bramblett+Real+Estate.mp4
