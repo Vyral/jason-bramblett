@@ -5,7 +5,8 @@ date: 2021-08-31 18:28:35
 tags:
   - Triad Real Estate Seller Tips
 excerpt: I’m discussing my Guaranteed Offer Program and who should use it.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jason+Bramblett/Videos/2021/What+Is+the+Guaranteed+Offer+Program_+-+Jason+Bramblett+Real+Estate.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
