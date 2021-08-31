@@ -18,7 +18,7 @@ youtube_code: plZvdSg_aSM
 
 {% include excerpt.html %}
 
-Thanks to a question from Bill and Pam in Oakridge, today I’m discussing my Guaranteed Offer Program. I’ll discuss what it is, who it works for, why you may want to consider it, and more. It has become one of my most popular programs, mainly due to the pandemic because it’s ideal for sellers who don’t want to sell the traditional way. You may be thinking that your home wouldn’t qualify for this program, but it works for any property.
+Thanks to a question from Bill and Pam in Oakridge, today I’m discussing my Guaranteed Offer Program. I’ll discuss what it is, who it works for, why you may want to consider it, and more. It has become one of my most popular programs, mainly due to the pandemic, because it’s ideal for sellers who don’t want to sell the traditional way. You may be thinking that your home wouldn’t qualify for this program, but it works for any property.
 
 **Feel free to watch the full message above, or use these timestamps that will direct you to various points in the video:**
 
