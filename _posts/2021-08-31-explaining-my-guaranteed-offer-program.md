@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Is the Guaranteed Offer Program?
+title: Explaining My Guaranteed Offer Program
 date: 2021-08-31 18:28:35
 tags:
   - Triad Real Estate Seller Tips
