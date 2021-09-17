@@ -5,7 +5,8 @@ date: 2021-09-17 18:41:42
 tags:
   - Market Update
 excerpt: Here’s why private equity companies are purchasing so many properties.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jason+Bramblett/Videos/2021/Why+Are+These+Companies+Buying+Up+So+Many+Houses_.mp4
 pullquote: Just one of these groups has over 400 closings this month.
 enclosure_type: video/mp4
 enclosure_time:
