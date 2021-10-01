@@ -5,7 +5,8 @@ date: 2021-10-01 17:37:15
 tags:
   - Triad Real Estate Seller Tips
 excerpt: Here’s how to avoid overpaying when selling your home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jason+Bramblett/Videos/2021/How+Not+to+Overpay+When+Selling+-+Jason+Bramblett+Real+Estate.mp4
 pullquote: >-
   If you didn’t have the money to buy it, you probably won’t have the money to
   sell it. 
