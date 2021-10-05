@@ -6,15 +6,17 @@ tags:
   - Triad Real Estate
   - Triad Real Estate Buyer Tips
 excerpt: Here’s how to avoid overpaying when buying your home.
-enclosure:
+enclosure: >-
+  s3://vyralmarketing/Jason Bramblett/Videos/2021/How Not to Overpay When You
+  Buy - Jason Bramblett Real Estate.mp4
 pullquote: >-
   If you didn’t have the money to buy it, you probably won’t have the money to
   sell it. 
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+use_youtube_image: false
+youtube_alternate_image: /jb-buyer-10-05-21yt.jpg
+youtube_code: bkeMXCZqwgc
 ---
 {% include youtube.html %}
 
