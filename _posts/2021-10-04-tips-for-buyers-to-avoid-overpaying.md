@@ -22,7 +22,7 @@ youtube_code: bkeMXCZqwgc
 
 {% include excerpt.html %}
 
-Unlike big corporations, individual people don’t have billions of dollars to throw at their marketing campaigns. So what can people do to avoid overpaying when it comes to selling their homes?
+Unlike big corporations, individual people don’t have billions of dollars to throw at their marketing campaigns. So what can people do to avoid overpaying when it comes to buying their homes?
 
 Here’s the thing: In real estate, time fixes most mistakes. We spoke to hundreds of homeowners during the housing crash, and when we did the math, the answer became clear—don’t sell, stay in the house. Everyone needs somewhere to live, after all, and living under an overpass is no plan B. **Their homes might have gone down in value, but they don’t have to take the loss if they can just stay put.** Over time, home values can go up, and indeed, since the housing crash, that’s all everything has done. The highs today have exceeded even the highs back then.
 
