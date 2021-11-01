@@ -6,7 +6,8 @@ tags:
     - Triad Real Estate
     - Triad Real Estate Seller Tips
 excerpt: You shouldn’t think about cashing out; move when it makes sense for you.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Jason+Bramblett/Should+You+Cash+Out+Now+Or+Wait+It+Out_+-+Jason+Bramblett+Real+Estate.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
