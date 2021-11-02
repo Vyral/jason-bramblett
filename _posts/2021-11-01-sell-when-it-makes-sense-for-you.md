@@ -21,7 +21,7 @@ youtube_code: 9viPqOTH2jc
 
 Should you cash out now or wait? A lot of people are leaning toward taking the money and running. At the end of the day, it always comes back to why. Why sell? A nice, fat equity cash out is a good reason, but there’s more that needs to go into that decision.
 
-**You can watch the full message above, or navigate to topics that interest you via the timestamps provided below for your convenience:**
+**You can watch the full message above or navigate to topics that interest you via the timestamps provided below for your convenience:**
 
 0:41 — Appreciation is like real estate’s fool’s gold
 
