@@ -5,7 +5,8 @@ date: 2021-11-15 00:00:00
 tags:
     - Market Update
 excerpt: Here’s what I have to say to anyone worried about a potential market crash.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Jason+Bramblett/Is+The+Market+Going+To+Crash_+-+Jason+Bramblett+Real+Estate.mp4
 pullquote: If you are a burnt-out buyer, now’s the time to get back in the market.
 enclosure_type: video/mp4
 enclosure_time:
