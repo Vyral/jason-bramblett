@@ -22,18 +22,18 @@ We’re back to answer another one of your great questions. Here’s something I
 
 The real benefit to buyers in the market right now is that there aren’t 20 offers on every house like there were this past spring and summer. We’re going to start dividing up the pie into more pieces with more available homes. **Once inventory starts to climb further, you’ll have even less competition.**
 
-Don’t assume the end is near, however. That’s what a lot of people are doing right now and I think it’s a bit premature. Some people think that rising inventory is a precursor to another market crash, but it’s really not. This is very typical of the Triad market.&nbsp;
+Don’t assume the end is near, however. That’s what a lot of people are doing right now, and I think it’s a bit premature. Some people think that rising inventory is a precursor to another market crash, but it’s&nbsp; not. This is very typical of the Triad market.&nbsp;
 
-**Don’t take the sound bite that talks about the market crashing to heart.** There’s no indication of that from the data. When you look at the trends over the last several years, what we’re seeing now is perfectly normal. Once schools start back up, so do inventory levels. People out here are watching the numbers and getting freaked out without any historical context. 600 homes sound like a lot, but then it doesn’t when you realize we have 1.4 million people living in the Triad.&nbsp;
+**Don’t take the sound bite that talks about the market crashing to heart.** There’s no indication of that from the data. When you look at the trends over the last several years, what we’re seeing now is perfectly normal. Once schools start back up, inventory begins to rise. People out here are watching the numbers and getting freaked out without any historical context. Another 600 homes sounds like a lot, but&nbsp; it doesn’t when you realize we have 1.4 million people living in the Triad.&nbsp;
 
 {% include pullquote.html %}
 
-The rise in inventory is actually a blessing. Inventory was so low before that buyers were getting burnt out because they lost out on so many homes. If you’re one of those buyers, now is a great time to jump back in.
+The rise in inventory is actually a blessing. Inventory was so low before that buyers were getting exhausted because they lost out on so many homes. If you’re one of those buyers, now is a great time to jump back in.
 
-The only time inventory dropped this time of year in the last decade was in 2011, when we were still reeling from the crash. That was probably the worst time for the market in the last 50 years.&nbsp;
+The only instance where inventory dropped this time of year in the last decade was in 2011, when we were still reeling from the crash. That was probably the worst time for the market in the last 50 years.&nbsp;
 
-**The mindset of today’s homeowners is different than the ones back then.** In the past, it was commonplace for thousands of homeowners to take their homes off the market at the end of summer. The average days on market back in 2011 was 13 months. These days, it’s more like 13 hours. In reality, it’s just four days. Psychologically, it’s a much different thing and that’s why we need to really dig into the data.
+**The mindset of today’s homeowners is different than the ones back then.** In the past, it was commonplace for thousands of homeowners to take their homes off the market at the end of summer. The average days on market back in 2011 was 13 months. Currently, the average days on market is just four days. Psychologically, it’s a much different thing, and that’s why we need to really dig into the data.
 
-If you have any questions about this topic or anything else related to real estate, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you have questions about this topic or anything else related to real estate, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
 
 &nbsp;
