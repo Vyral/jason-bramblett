@@ -19,14 +19,14 @@ youtube_code: RyDqGFGTDpI
 
 {% include excerpt.html %}
 
-Now that Thanksgiving is over, the holiday season is officially here. This is a time of year where a lot of people make decisions about their homes and their plans with them.&nbsp;
+Now that Thanksgiving is over, the holiday season is officially here. This is a time of year when a lot of people make decisions about their homes and their plans with them.&nbsp;
 
 The last two years have been crazy, to say the least, and it’s changed the way we do business and utilize technology forever. It’s incredible how quickly this change has taken place out of necessity. **Because of this, even more people than normal are reconsidering their living situation.**
 
-This season can really showcase a home’s features, and a lot of people decide after Thanksgiving that their space no longer works for them.
+This season can really showcase a home’s features, so a lot of people decide after Thanksgiving that their space no longer works for them.
 
 Other people are making a different kind of move at this time of year. I’m talking about those who are thinking about a career in real estate. Maybe real estate is the change that you’re looking for professionally.&nbsp;
 
-**If you’re thinking about buying, selling, or becoming an agent, we’d love to talk to you.** Give us a call or send us an email and we’d be happy to offer our insight and answer any questions you might have. We look forward to hearing from you soon.
+**If you’re thinking about buying, selling, or becoming an agent, we’d love to talk to you.** Give us a call or send us an email, and we’d be happy to offer our insight and answer any questions you might have. We look forward to hearing from you soon.
 
 &nbsp;
