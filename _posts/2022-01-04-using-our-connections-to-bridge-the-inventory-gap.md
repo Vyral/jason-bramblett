@@ -5,7 +5,7 @@ date: 2022-01-04 00:00:00
 tags:
   - Triad Real Estate Buyer Tips
   - Triad Real Estate
-excerpt: Having troubles finding a new home? We have connections.
+excerpt: Having trouble finding a new home? We have connections.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Jason+Bramblett/Connections+-+Jason+Bramblett+Real+Estate.mp4
 pullquote: 'We know where to look to find homes that aren’t yet on the market. '
