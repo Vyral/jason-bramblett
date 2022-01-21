@@ -18,7 +18,7 @@ youtube_code: 20fEVb7gsoA
 
 {% include excerpt.html %}
 
-2022 is going to be my year of giving back. I want to take everything I’ve learned over the last 24 years and help educate others. I’ll be holding an event in the Triad on February 17 from 9 a.m. to 12 p.m.
+2022 is going to be my year of giving back. I want to take everything I’ve learned over the last 24 years and help educate others. I see so many newer agents with lofty goals of success, but they lack the planning to reach those goals or the knowledge of what goals aren’t realistic. I’ll be holding an event in the Triad on February 17 from 9 a.m. to 12 p.m.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
 
@@ -38,4 +38,4 @@ youtube_code: 20fEVb7gsoA
 
 6:58 — Wrapping up
 
-If you have any questions, don’t hesitate to reach out to me. I look forward to hearing from you.
+If you have any questions, don’t hesitate to call or email me. I look forward to hearing from you.
