@@ -20,7 +20,7 @@ youtube_code: IUQePY99MBw
 
 Real estate has always been a place where you invest a part of your portfolio, but it’s different now. Prices are through the roof, which is great if you’re selling, but how does that affect investing? Is real estate still a good investment?
 
-I think a lot of new investors feel that way right now. They might be looking at prices and thinking they’ve missed the boat, but that’s a bad way to see it. Here’s a good metric for investing: **If you are too late, then it was never worth doing.** If the investment was only good for a short time, how good was it really? It had no sustaining power.
+I think a lot of new investors feel that way right now. They might be looking at prices and thinking they’ve missed the boat, but that’s a bad way to see it. Here’s a good metric for investing: **If you are too late, then it was never worth doing.** If the investment was only good for a short time, how good was it really? It had no staying power.
 
 {% include pullquote.html %}
 
