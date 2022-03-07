@@ -6,7 +6,8 @@ tags:
   - Market Update
   - Triad Real Estate
 excerpt: Here’s why it is still a good time to invest in real estate.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jason+Bramblett/Is+It+Too+Late+To+Invest+In+Real+Estate_+_+Jason+Bramblett+Real+Estate.mp4
 pullquote: The list price is a mirage.
 enclosure_type: video/mp4
 enclosure_time:
