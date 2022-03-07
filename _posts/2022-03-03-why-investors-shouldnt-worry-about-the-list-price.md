@@ -11,7 +11,7 @@ enclosure: >-
 pullquote: The list price is a mirage.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/3-3-22yt-4.jpg
 youtube_code: IUQePY99MBw
 ---
