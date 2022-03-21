@@ -4,8 +4,10 @@ title: The Key To a Good Investment Is Math, Not Emotions
 date: 2022-03-14 00:00:00
 tags:
   - Triad Real Estate Buyer Tips
+  - Investing
 excerpt: Investors shouldn’t get caught up in the hunt for discounts.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jason+Bramblett/Videos/2022/The+Key+To+a+Good+Investment+Is+Math%2C+Not+Emotions+_+Jason+Bramblett+Real+Estate.mp4
 pullquote: >-
   So many investors get caught up in the pursuit of discounts and deals that
   they miss some truly amazing opportunities.
