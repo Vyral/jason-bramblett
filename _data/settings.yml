@@ -34,7 +34,8 @@ client:
   url: http://www.JasonBramblett.com
 CTAs:
   first_CTA_text: Home Analysis Report
-  first_CTA_URL: https://www.jasonbramblett.com/cma/property-valuation/
+  first_CTA_URL: >-
+    https://greensboroncrealestateforsaleonline.realgeeks.com/cma/property-valuation/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.greensbororealestatesearch.com/
 sidebar_CTA:
