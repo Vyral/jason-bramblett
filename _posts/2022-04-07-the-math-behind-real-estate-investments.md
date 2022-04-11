@@ -5,7 +5,8 @@ date: 2022-04-07 00:00:00
 tags:
   - Real Estate Investing
 excerpt: Here’s why the math behind real estate investing makes sense.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jason+Bramblett/Videos/2022/The+Math+Behind+Real+Estate+Investments.mp4
 pullquote: This is a great time to invest in real estate.
 enclosure_type: video/mp4
 enclosure_time:
