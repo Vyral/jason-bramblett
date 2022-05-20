@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Two Ways of Selling in This Market
+title: The 2 Ways of Selling in This Market
 date: 2022-05-19 18:28:04
 tags:
 excerpt: Selling in this market is overwhelming, and here’s how I can help.
