@@ -9,7 +9,7 @@ pullquote: Regardless of interest rates, people still find value in owning a hom
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/youtube-1.jpg
+youtube_alternate_image: /uploads/7-25-22yt.jpg
 youtube_code: oI-BBJzCxsc
 ---
 {% include youtube.html %}
