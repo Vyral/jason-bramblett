@@ -26,10 +26,10 @@ Any plan further than four years out is irrelevant. There is no crystal ball, an
 
 {% include pullquote.html %}
 
-However, even if prices do drop, they likely won’t decrease as far as they did in 2018. There were outlying factors then that do not apply now. Plus, there is so much growth happening in our area currently. It’s exciting to see all the companies moving here and all the changes that are occurring. Thirdly, our state population is supposed to rise—it is predicted to double by 2035 or 2040. All of these factors will prohibit a repeat of 2018.&nbsp;
+Even if prices drop, they likely won’t decrease to what they were in 2018. There were outlying factors then that do not apply now. Plus, there is so much growth currently happening in our area. It’s exciting to see all the companies moving here and all the recent changes. Thirdly, our state population is supposed to rise—it is predicted to double by 2035 or 2040.&nbsp;
 
 **I believe that the Triad is in a great position to keep moving forward and gaining equity.** There may be confusion and dips along the way, but overall I think we’re going to be great.&nbsp;
 
-For all my real estate friends that are getting a little nervous—the sky is not falling. Make an effort to stay away from the negative voices. I have been through twists and turns like this before, so I can see that it is going to be okay.&nbsp;
+For all my real estate friends that are getting a little nervous: the sky is not falling. Make an effort to stay away from the negative voices. I have been through twists and turns like this before, so I can see it is going to be okay.&nbsp;
 
-If you want more information about the housing market and what these changes mean for you, call or email me, I’d be happy to talk with you.&nbsp;
+If you want more information about the housing market and what these changes mean for you, call or email me. I’d be happy to talk with you.&nbsp;
