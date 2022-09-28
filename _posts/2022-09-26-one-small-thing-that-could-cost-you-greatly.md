@@ -18,7 +18,7 @@ youtube_code: https://youtu.be/FQp0cAAIBOs
 
 {% include excerpt.html %}
 
-Have you ever thought about doing a title search? Most people haven’t, but it can actually cost you greatly. You could have all of your stuff on a moving truck ready to move into your dream home, just to find out that you have to move back in due to a title issue. I don’t want this to happen to you, so today I’m going over everything you need to know about title searches and what to focus on.&nbsp;
+Have you ever thought about doing a title search? Most people haven’t, but avoiding it cost you greatly. You could have all of your stuff on a truck ready to move into your dream home, just to find out that you have to move back in due to a title issue. I don’t want this to happen to you, so today I’m going over everything you need to know about title searches and what to focus on.&nbsp;
 
 **Get all the information by watching the video above or skip to individual topics using these timestamps:&nbsp;**
 
