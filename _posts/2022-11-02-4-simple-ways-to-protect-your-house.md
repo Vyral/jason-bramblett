@@ -25,4 +25,6 @@ As we head toward colder weather, it is crucial to ensure your home is prepared.
 3. **Inspect the vents.** If you have a crawl space, ensure the ground level is below the vents.&nbsp;
 4. **Look at the downspouts.** Ensure they’re connected to the extension pipes. This is a problem that I see often, and it’s the number one cause of basement leaks that I have seen in our area.&nbsp;
 
+&nbsp;
+
 It’s one thing to deal with problems and mess when the weather is nice, but it’s another thing when it’s 14 degrees outside. Therefore, take preventative action today. If you have any questions about this, call or email me anytime, I’d love to help you.
