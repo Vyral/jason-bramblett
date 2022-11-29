@@ -20,7 +20,7 @@ I recently spoke about the importance of winterizing your home, specifically the
 
 1. **Disconnect your garden hose.** The last thing you want is to have it freeze back into your house and make a pipe burst. This is rare in our area, but it does happen, so be careful and make sure to also drain the hose.&nbsp;
 2. **Check your weather stripping.** This should be around your doors and windows, and it isn’t made to last a lifetime. Make sure it works before it costs you in heating bills.&nbsp;
-3. **Make sure all of your windows are closed.** This is easily forgotten in rooms that aren’t used a lot. Maybe you opened the window to get some airflow, which is fine, but not in 20-degree weather.&nbsp;<br><br>{% include pullquote.html %}<br>&nbsp;
+3. **Make sure all of your windows are closed.** This is easily forgotten in rooms that aren’t used a lot. Maybe you opened the window to get some airflow, which is fine, but not in 20-degree weather.&nbsp;<br>{% include pullquote.html %}
 4. **Find all of your winter equipment ahead of time.** This includes snow shovels, ice scrapers, ice melt, and more. The worst time to look for things is when you need them. If you have to go buy things in peak season, they’ll be difficult to find. Then, get together your flashlights and extra batteries, just in case.&nbsp;
 5. **Test your smoke alarms.** With houses normally being very closed up in the winter, it is important to be able to detect things early, especially if you will be using alternative methods for heat.&nbsp;
 6. **Get your generators now.** This is like the winter equipment that I mentioned earlier—you don’t want to wait until it’s too late or in high demand.&nbsp;
