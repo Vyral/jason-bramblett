@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Buyers Need To Know About Our Housing Market
+title: What Buyers Need To Know About Our Housing Market Pt. 2
 date: 2023-03-02 07:00:00
 tags:
 excerpt: 'This just might be the best deal available for buyers in our market. '
