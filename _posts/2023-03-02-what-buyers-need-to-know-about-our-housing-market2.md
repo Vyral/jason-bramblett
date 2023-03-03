@@ -18,7 +18,7 @@ youtube_code: ZS0R-8FfxSo
 
 By now, you may have heard that our real estate market has shifted. Home prices and interest rates are changing, and our entire market is totally different. This is making some people nervous about the future, but some savvy buyers and agents are starting to find new opportunities. If you missed part one of my series on this topic, [click here](https://www.youtube.com/watch?v=6teMJxFWxl4) to check it out. In this video, I’ll cover what might be the best deal available in our market right now: A refinancing guarantee for five years after purchasing.
 
-**You can listen to my full explanation in the video above or skip to each topic using the timestamps provided:&nbsp;**
+**You can listen to my full explanation in the video above or skip to each topic using the timestamps provided: **
 
 0:00 — Introduction
 
