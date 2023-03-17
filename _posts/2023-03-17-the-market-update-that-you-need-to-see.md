@@ -18,4 +18,4 @@ youtube_code: hpBdhbZGmeM
 
 {% include excerpt.html %}
 
-What’s the housing market doing? It’s a question that has been on everybody’s mind recently. One thing we can’t escape noticing is that rates have gone up yet again after everyone expected them to drop back down. There may be a silver lining, though, with inventory beginning to creep back up after being so meager. Today, we will be going over all the numbers, answering your questions, and delivering you the news you need to know to make smart real estate decisions. To learn more about our housing market, check out my latest video.
+What’s the housing market doing? It’s a question that has been on everybody’s mind recently. There may be a silver lining, though, with inventory beginning to creep back up after being so meager. Today, we will be going over all the numbers, answering your questions, and delivering you the news you need to know to make smart real estate decisions. To learn more about our housing market, check out our latest video.
