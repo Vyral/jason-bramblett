@@ -21,7 +21,7 @@ Buying at today’s soaring interest rates can be daunting. With rates approachi
 
 One great option that doesn’t get enough discussion is **the 15-year fixed-rate mortgage.** Compared to a traditional 30-year mortgage, this product tends to have a lower interest rate. In fact, it’s as much as 1% less. Take this, and combine it with the fact that you are paying for half of the amount of time, and you are looking at some significant savings. You even have a tremendous amount of money going to pay the principal, which is always a good thing.
 
-Another option that you could consider is an**&nbsp;Adjustable Rate Mortgage or (ARM).** These products has a fixed interest rate for a given period, then fluctuates after that. In the days when we saw 2.8% interest rates, this wasn’t a wise decision, but since they are so much higher, and since most homeowners don’t own their homes for more than seven years, it’s worth considering. These products can help you save as much as 1% off that interest rate. What happens if rates drop further? In that case, you can always refinance out of that ARM and into something at a lower rate.
+Another option that you could consider is an**&nbsp;Adjustable Rate Mortgage (ARM).** These products has a fixed interest rate for a given period, then fluctuates after that. In the days when we saw 2.8% interest rates, this wasn’t a wise decision, but since they are so much higher, and since most homeowners don’t own their homes for more than seven years, it’s worth considering. These products can help you save as much as 1% off that interest rate. What happens if rates drop further? In that case, you can always refinance out of that ARM and into something at a lower rate.
 
 {% include pullquote.html %}
 
