@@ -19,7 +19,7 @@ youtube_code: xks2PWrd3dg
 
 {% include excerpt.html %}
 
-Are you looking to purchase a home in this market? There are a lot of steps to buying a home, and it’s not something that people do all the time. Today, we’re sharing some tips that will help better prepare you for the process of buying.
+Are you looking to purchase a home in this market? There are a lot of steps to buying a home, and it’s not something that people do all the time. Today, I'm sharing some tips that will help better prepare you for the process of buying.
 
 **Feel free to watch the full message above or use these timestamps that will direct you to various points in the video:**
 
@@ -37,4 +37,4 @@ Are you looking to purchase a home in this market? There are a lot of steps to b
 
 5:49 — Wrapping up
 
-Remember, if you have any questions about this topic or real estate in general, please feel free to reach out to us by phone or email. We would be happy to serve as your resource for all of your real estate needs.
+Remember, if you have any questions about this topic or real estate in general, please feel free to reach out to me by phone or email. I am always happy to serve as your resource for all of your real estate needs.
