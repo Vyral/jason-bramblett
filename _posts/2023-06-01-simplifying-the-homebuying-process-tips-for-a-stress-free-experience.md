@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Simplifying the Homebuying Process: Tips for a Stress-Free Experience'
+title: 'Simplifying the Home-Buying Process: Tips for a Stress-Free Experience'
 date: 2023-06-01 10:00:00
 tags:
   - Triad Real Estate Buyer Tips
@@ -19,17 +19,17 @@ youtube_code: xks2PWrd3dg
 
 {% include excerpt.html %}
 
-Are you looking to purchase a home in this market? There are a lot of steps to buying a home, and it’s just not something that people do all the time. Today, we’re sharing some tips that will help better prepare you for the process of buying.
+Are you looking to purchase a home in this market? There are a lot of steps to buying a home, and it’s not something that people do all the time. Today, we’re sharing some tips that will help better prepare you for the process of buying.
 
 **Feel free to watch the full message above or use these timestamps that will direct you to various points in the video:**
 
-0:00 — Preparing to buy
+0:00 — Introduction
 
 0:30 — Get in touch with your lender or bank
 
 2:21 — Understand the other costs
 
-2:57 — Does your lender have a “lock-and-shop”
+2:57 — Does your lender have a “lock-and-shop”?
 
 3:50 — Get the house inspected
 
