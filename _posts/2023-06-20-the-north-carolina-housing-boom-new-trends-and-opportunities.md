@@ -26,8 +26,8 @@ First, know that **inventory is still tight, so home values are still strong.** 
 
 **{% include pullquote.html %}**
 
-To find success, you need to know where listings are, because not all of them are on the internet. Many people are ready to sell, they just need to find the right home to buy. Therefore, there are a lot of opportunities there. People just don't want to move twice if they don’t have to, which is very understandable, as moving is never fun. It’s crazy how much stuff we accumulate!&nbsp;
+To find success, you need to know where listings are, because not all of them are on the internet. Many people are ready to sell; they just need to find the right home to buy. Therefore, there are a lot of opportunities there. People just don't want to move twice if they don’t have to, which is very understandable, as moving is never fun. It’s wild how much stuff we accumulate!&nbsp;
 
-Still, know that we have a large database of people who are ready, they just need the right house, which means their home will soon be available and isn’t online. Therefore, **you need to work with a real estate professional who will work hard to help you find listings.** Things aren’t going to just happen for you without work. You need to find someone who will put in the time and effort to help you find your dream home.&nbsp;
+Still, know that we have a large database of people who are ready; they just need the right house, which means their home will soon be available and isn’t online. Therefore, **you need to work with a real estate professional who will work hard to help you find listings.** Things aren’t going to just happen for you without work. You need to find someone who will put in the time and effort to help you find your dream home.&nbsp;
 
-There may be more opportunities out there than you think. Therefore, if you want help buying or selling a home, know that I’m here to help. You can call or email me anytime and I would be happy to assist you.
+There may be more opportunities out there than you think. Therefore, if you want help buying or selling a home, know that I’m here to help. You can call or email me anytime, and I would be happy to assist you.
