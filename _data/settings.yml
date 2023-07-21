@@ -34,7 +34,8 @@ client:
   url: http://www.JasonBramblett.com
 CTAs:
   first_CTA_text: Home Analysis Report
-  first_CTA_URL: https://greensboroncrealestateforsaleonline.realgeeks.com/cma/property-valuation/
+  first_CTA_URL: >-
+    https://greensboroncrealestateforsaleonline.realgeeks.com/cma/property-valuation/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.greensbororealestatesearch.com/
 sidebar_CTA:
@@ -44,9 +45,10 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free Home Analysis Report
-    CTA_url: https://greensboroncrealestateforsaleonline.realgeeks.com/cma/property-valuation/
+    CTA_url: >-
+      https://greensboroncrealestateforsaleonline.realgeeks.com/cma/property-valuation/
 second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/005.jpg
+  - CTA_image_path2: /img/cta-images/008.jpg
     CTA_title2: Looking for a -- MARKET -- Home?
     CTA_text2: Search all available homes in the -- MARKET -- area.
     CTA_link_text2: Search Homes
