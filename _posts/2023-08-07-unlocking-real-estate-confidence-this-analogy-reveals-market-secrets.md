@@ -25,8 +25,6 @@ One great way to understand today’s market is the quarter-dollar analogy. Let�
 
 **{% include pullquote.html %}**
 
-
-
 In our area, if you bought a three-bedroom, two-bathroom home in 2013, you would’ve paid about $140,000. Today, you could sell that kind of house for at least $240,000—that’s a huge jump! In 10 years, you earned $100,000.&nbsp;
 
 Then think about the people who were renting during those 10 years. They haven’t gained any equity, and their rental rates have just gone up! In comparison, the people who purchased a home in 2013 have experienced their payments going down because of interest rates going down from 7% in 2013 to the 3% it was a few years ago. Therefore, **homeowners who refinanced are paying less and earning much more.** That’s a great trade, as straightforward as trading a quarter for a dollar.&nbsp;
